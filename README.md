@@ -2,6 +2,9 @@
 
 `pdfex` is a Go library and command-line tool for parsing PDF files and extracting text and metadata. It provides a clean API for developers and a versatile command-line interface for end users.
 
+## STATUS: EXPERIMENTAL
+#### The design is mostly done and it almost works, but several crucial features are still not supported / not implemented.
+
 ## Features
 
 - Parse and extract text from PDF files
